@@ -1,0 +1,29 @@
+/* Bu stil sayfası home.html sayfasındaki elementlerin stilini belirler. */
+
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+  margin-top: 60px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-top: 40px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-top: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
